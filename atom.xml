@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dogma</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2020-05-22T09:23:05.308Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>dogma</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux命令</title>
+    <link href="/2018/12/12/linux%E5%91%BD%E4%BB%A4/"/>
+    <id>/2018/12/12/linux命令/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2020-05-22T09:23:05.308Z</updated>
+    
+    <summary type="html">
+    
+      常用Linux命令
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="/tags/web/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
